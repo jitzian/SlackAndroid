@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_12f299b43e314eaa90a3f88ea97e38fa6d41026c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_8d6d881362e20af53dc641f3a4ed6d5142c63b75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_f2045677e8c9510c53b20aff1c1c24701c0360c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d66de6418a6f6042f701c5bc3e481901e0a406c5">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d7acb51005311e113df62d6f89c81274e02f5728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_47ab48a5a1edfa62b3fb29a449f7961590252220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_164e4e0cb4aa4371dc8854fea64105e0721273df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_9e8e90bd2fc08abd90c9b30df23514b4230a4fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_c33fafa9524c3f2b4980a59df2119b0b836d7cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_bbc12fc5d3b44a8c8891629619b34f2bbcb3c451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_16e3e891d700a1b7f9cac5626cd9d9ebd66a67e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f619980b26495c467fc9b02d856024cf451709e">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6f880ac2d5712e4549f851082c5167461cf454e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_06531c680f24025609c062dbf646194b415b5433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_0fc61a05673c452c27093bca05220f266c505d20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_86447cf8fbf733259f33ca03f5644d741107eaa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/www/androidStudioWS/fromTheWeb/SlackRetrofit/Slackrofit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.2.1_2d08cf7cc69a8704b98ca24c8993e2b6c0d8b941/classes.dex" />
+    </item>
+
+</items>
